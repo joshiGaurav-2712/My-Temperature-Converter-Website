@@ -6,7 +6,7 @@ This is my second task at Bharat Intern Virtual Internship.
 Features:
 Convert temperatures from Celsius to Fahrenheit to Kelvin and vice versa. 
 Stylish and user-friendly interface. Responsive design for desktop and mobile devices.
-How to Use Enter the temperature in Celsius, Kelvin or Fahrenheit in the provided input field. 
+How to Use: Enter the temperature in Celsius, Kelvin or Fahrenheit in the provided input field. 
 The converted temperature in Celsius, Kelvin & Fahrenheit will be displayed. Enjoy using the Temperature Converter!
 
 Installation: 
